@@ -21,7 +21,28 @@
   <em>A structured family-side infrastructure layer for Autism Spectrum Disorder (ASD)</em>
 </p>
 
-<br/>
+<p align="center">
+  <a href="#-what-is-springbloom">What is SpringBloom?</a> •
+  <a href="#-core-modules">Core Modules</a> •
+  <a href="#-product-screenshots">Product Screenshots</a> •
+  <a href="#-system-workflow-diagrams">System Workflows</a> •
+  <a href="#-run-locally">Run Locally</a> •
+  <a href="#-vision">Vision</a>
+</p>
+
+---
+
+### 🖼 Product Screenshots
+
+<p align="center">
+  <img src="Asset/HomePage.png" alt="SpringBloom – home intervention homepage" width="28%"/>
+  <img src="Asset/ASD%20Screennig.png" alt="SpringBloom – ASD early screening" width="28%"/>
+  <img src="Asset/Live%20Guide.png" alt="SpringBloom – live guidance view" width="28%"/>
+</p>
+
+<p align="center">
+  <em>AI-assisted early screening, structured home intervention, and clinician-ready packaging in one continuous flow.</em>
+</p>
 
 ---
 
@@ -134,11 +155,9 @@ SpringBloom remains a family-side structured infrastructure layer.
 
 ---
 
-# 📊 System Workflow Diagrams
+## 📊 System Workflow Diagrams
 
----
-
-## 🔹 Overall System Flow
+### 🔹 Overall System Flow
 
 ```
         ┌─────────────────────────────┐
@@ -170,7 +189,7 @@ SpringBloom remains a family-side structured infrastructure layer.
 
 ---
 
-## 🔹 Early Screening Logic Flow
+### 🔹 Early Screening Logic Flow
 
 ```
         ┌────────────────────────┐
@@ -196,7 +215,7 @@ SpringBloom remains a family-side structured infrastructure layer.
 
 ---
 
-## 🔹 Home Intervention Execution Flow
+### 🔹 Home Intervention Execution Flow
 
 ```
         ┌────────────────────────────┐
@@ -222,7 +241,7 @@ SpringBloom remains a family-side structured infrastructure layer.
 
 ---
 
-## 🔹 Behavioral Structuring & Trend Analysis Flow
+### 🔹 Behavioral Structuring & Trend Analysis Flow
 
 ```
         ┌────────────────────────┐
@@ -247,7 +266,7 @@ SpringBloom remains a family-side structured infrastructure layer.
 
 ---
 
-## 🔹 Pre-Visit Packaging Flow
+### 🔹 Pre-Visit Packaging Flow
 
 ```
         ┌────────────────────────────┐
@@ -291,7 +310,7 @@ npm run dev
 
 Open in browser:
 
-```
+```bash
 http://localhost:5173
 ```
 
