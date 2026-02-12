@@ -1,6 +1,6 @@
 <!-- SpringBloom Banner Section -->
 <div align="center">
-  <img src="Asset/logo.png" alt="SpringBloom Logo" width="180"/>
+  <img src="Asset/logo2.png" alt="SpringBloom Logo" width="180"/>
 </div>
 
 <h2 align="center">
