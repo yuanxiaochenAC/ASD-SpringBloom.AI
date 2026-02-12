@@ -1,2 +1,20 @@
-# ASD-SpringBloom.AI
-SpringBloom.AI 是一套面向自闭症谱系障碍（ASD）家庭场景设计的智能支持系统，聚焦“早筛准备、家庭干预执行与预问诊资料结构化”三大核心环节。项目旨在通过标准化流程与结构化数据框架，将部分可重复、可前置的支持工作从线下专业场景延伸至家庭环境，在合规边界内提升信息准备效率与家庭执行稳定性。系统支持引导式问卷、场景化行为任务记录、关键事件时间线整理以及面向医生的预问诊材料生成。平台不提供诊断结论，也不替代医学判断，而是作为家庭侧的辅助基础设施，帮助沉淀连续行为数据，优化门诊沟通质量，并为长期随访提供结构化支持框架。
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1VjL5PwGdcyFDw78ytIAQjcR3sPWX7z8L
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

@@ -1,0 +1,9 @@
+{
+  "name": "SpringBloom AI",
+  "description": "A warm, supportive AI companion for early autism screening and family support, featuring real-time voice interaction, behavior analysis, and visual aids.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
